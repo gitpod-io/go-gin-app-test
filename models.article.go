@@ -18,6 +18,7 @@ var articleList = []article{
 	article{ID: 2, Title: "Article 2", Content: "Article 2 body"},
     article{ID: 2, Title: "Article 3", Content: "Article 3 body"},
     article{ID: 2, Title: "Article 4", Content: "Article 4 body"},
+    article{ID: 2, Title: "Article 5", Content: "Article 5 body"},
 }
 
 // Return a list of all the articles
